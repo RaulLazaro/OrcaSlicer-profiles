@@ -1,0 +1,21 @@
+{
+    "from": "User",
+    "gap_infill_speed": "70",
+    "inherits": "0.28mm Extra Draft @Voron",
+    "initial_layer_infill_speed": "30",
+    "initial_layer_line_width": "0.6",
+    "initial_layer_print_height": "0.3",
+    "initial_layer_speed": "30",
+    "inner_wall_speed": "100",
+    "internal_solid_infill_speed": "150",
+    "name": "0.28mm Extra Draft PETG",
+    "only_one_wall_first_layer": "1",
+    "outer_wall_speed": "70",
+    "precise_outer_wall": "0",
+    "print_settings_id": "0.28mm Extra Draft PETG",
+    "sparse_infill_speed": "150",
+    "top_bottom_infill_wall_overlap": "30%",
+    "top_surface_speed": "70",
+    "version": "2.2.0.4",
+    "wall_sequence": "inner-outer-inner wall"
+}

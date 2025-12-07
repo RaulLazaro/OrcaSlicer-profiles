@@ -1,0 +1,25 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "1.0025"
+    ],
+    "filament_settings_id": [
+        "PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "PETG",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.041"
+    ],
+    "version": "2.3.0.3"
+}

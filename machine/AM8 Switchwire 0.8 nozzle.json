@@ -1,0 +1,26 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0",
+    "change_filament_gcode": "M600",
+    "enable_filament_ramming": "0",
+    "from": "User",
+    "inherits": "Voron Switchwire 250 0.8 nozzle",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
+    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n",
+    "manual_filament_change": "1",
+    "name": "AM8 Switchwire 0.8 nozzle",
+    "print_host": "am8.local",
+    "printable_area": [
+        "0x0",
+        "250x0",
+        "250x250",
+        "0x250"
+    ],
+    "printable_height": "350",
+    "printer_settings_id": "AM8 Switchwire 0.8 nozzle",
+    "purge_in_prime_tower": "0",
+    "retract_length_toolchange": [
+        "0"
+    ],
+    "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
+    "version": "2.2.0.4"
+}
