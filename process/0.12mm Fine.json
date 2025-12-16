@@ -12,5 +12,9 @@
     "sparse_infill_speed": "175",
     "top_surface_speed": "70",
     "version": "2.2.0.4",
-    "wall_sequence": "inner-outer-inner wall"
+    "wall_sequence": "inner-outer-inner wall",
+    "compatible_printers": [
+        "AM8 Switchwire 0.4 nozzle",
+        "SV08 Sovol 0.4 nozzle"
+    ]
 }
