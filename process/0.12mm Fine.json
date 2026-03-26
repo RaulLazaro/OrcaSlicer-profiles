@@ -1,20 +1,24 @@
 {
+    "bottom_solid_infill_flow_ratio": "1.1",
+    "compatible_printers": [
+        "AM8 Switchwire 0.4 nozzle",
+        "SV08 Sovol 0.4 nozzle"
+    ],
     "from": "User",
     "gap_infill_speed": "70",
     "inherits": "0.12mm Fine @Voron",
     "initial_layer_infill_speed": "50",
+    "initial_layer_print_height": "0.3",
     "initial_layer_speed": "40",
     "inner_wall_speed": "150",
     "internal_solid_infill_speed": "175",
     "name": "0.12mm Fine",
+    "only_one_wall_first_layer": "1",
     "outer_wall_speed": "100",
+    "precise_outer_wall": "0",
     "print_settings_id": "0.12mm Fine",
     "sparse_infill_speed": "175",
     "top_surface_speed": "70",
     "version": "2.2.0.4",
-    "wall_sequence": "inner-outer-inner wall",
-    "compatible_printers": [
-        "AM8 Switchwire 0.4 nozzle",
-        "SV08 Sovol 0.4 nozzle"
-    ]
+    "wall_sequence": "inner-outer-inner wall"
 }
