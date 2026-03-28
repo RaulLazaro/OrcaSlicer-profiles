@@ -5,6 +5,9 @@
     "filament_cost": [
         "13"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "1.0025"
     ],
@@ -22,7 +25,6 @@
         "60"
     ],
     "inherits": "Generic PLA @System",
-    "is_custom_defined": "0",
     "name": "PLA 205C",
     "nozzle_temperature": [
         "205"

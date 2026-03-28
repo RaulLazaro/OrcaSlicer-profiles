@@ -14,8 +14,10 @@
     "name": "0.10mm Standard 0.2 nozzle",
     "only_one_wall_first_layer": "1",
     "outer_wall_speed": "100",
+    "precise_outer_wall": "0",
     "print_settings_id": "0.10mm Standard 0.2 nozzle",
     "sparse_infill_speed": "175",
+    "top_bottom_infill_wall_overlap": "30%",
     "top_surface_speed": "70",
     "version": "2.2.0.4",
     "wall_sequence": "inner-outer-inner wall"
