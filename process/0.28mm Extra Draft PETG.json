@@ -4,6 +4,7 @@
         "AM8 Switchwire 0.4 nozzle",
         "SV08 Sovol 0.4 nozzle"
     ],
+    "filename_format": "{num_instances}_{plate_name}_{layer_height}mm_{filament_type[initial_tool]}_{nozzle_temperature[0]}C_{print_time}.gcode",
     "from": "User",
     "gap_infill_speed": "70",
     "inherits": "0.28mm Extra Draft @Voron",
