@@ -12,12 +12,6 @@
     "manual_filament_change": "1",
     "name": "SV08 Sovol 0.4 nozzle",
     "print_host": "192.168.1.5",
-    "printer_extruder_id": [
-        "1"
-    ],
-    "printer_extruder_variant": [
-        "Direct Drive Standard"
-    ],
     "printer_settings_id": "SV08 Sovol 0.4 nozzle",
     "purge_in_prime_tower": "0",
     "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
