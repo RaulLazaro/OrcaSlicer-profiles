@@ -15,6 +15,9 @@
     "printer_settings_id": "SV08 Sovol 0.6 nozzle",
     "printing_by_object_gcode": "_DPROA",
     "purge_in_prime_tower": "0",
+    "retract_length_toolchange": [
+        "0"
+    ],
     "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
     "version": "2.3.1.10"
 }
